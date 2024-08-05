@@ -4,3 +4,85 @@
 
 /* Nav Section */
 
+nav {
+    width: 73%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+    margin-left: auto;
+    text-align: center;
+}
+
+nav button {
+    width: 32%;
+    height: 50px;
+}
+
+/* Sidebar Section */
+
+#sideBar {
+    width: 23%;
+    float: left;
+    text-align: center;
+    padding: 1%
+}
+
+#sideBar img {
+    width: 23%;
+    padding: 1%;
+}
+
+/* Body Section */
+
+#heroBanner {
+    width: 73%;
+    height: 300px;
+    padding: 1%;
+    display: inline-block;
+    position: relative;
+}
+
+#heroBanner h1 p {
+    width: 83%;
+    margin: 0 auto;
+}
+
+#heroBanner button{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+#portfolio {
+    text-align: center;
+}
+
+#workGrid {
+    text-align: center;
+}
+
+.workShowcase {
+    display: inline-block;
+}
+
+/* Footer Section */
+
+footer {
+    width: 100%;
+    float: left;
+    background-color: #373738;
+    text-align: center;
+    color: white;
+}
+
+footer div {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    vertical-align: top;
+
+}
+
+footer p  {
+    text-align: center;
+}
